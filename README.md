@@ -1,17 +1,12 @@
 <details closed>
   <summary> About Me </summary>
-  <h3>Name: DJ Carpenter </h3>
-  <h3>Title: Senior Engineer 1</h3>
-  <h3>Department: CTO - Developer Experience - Developer Platforms</h3>
-  <h3>Email: daniel.j.carpenter1@aexp.com</h3>
-  <h3 href="https://aexp-architecture.slack.com/archives/DPA2KHV45">Slack: @dj</h3>
-  <h3>City: Phoenix</h3>
+  <h5>Name: DJ Carpenter </h5>
+  <h5>Title: Senior Engineer 1</h5>
+  <h5>Department: CTO - Developer Experience - Developer Platforms</h5>
+  <h5>Email: daniel.j.carpenter1@aexp.com</h5>
+  <a href="https://aexp-architecture.slack.com/archives/DPA2KHV45">Slack: @dj</a>
+  <h5>City: Phoenix</h5>
 </details>
-  
-### Title: Senior Engineer I
-### Department: CTO - Developer Experience - Developer Platforms
-### Email: daniel.j.carpenter1@aexp.com
-### City: Phoenix
 
 ---
 
