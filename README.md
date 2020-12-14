@@ -1,4 +1,4 @@
-## [![DJ Carpenter](https://github.aexp.com/djcarpe/djcarpe/blob/master/images/header.png)](https://square.americanexpress.com/people/djcarpe)
+## ![DJ Carpenter](https://github.com/djcarpe/djcarpe/blob/master/images/header.png)
 
 ---
 
@@ -9,7 +9,7 @@ I am passionate about all things technology. I've been an Embedded Systems Engin
 
 When I'm not tinkering with my litany of second hand servers, arduinos, or circuit designs, I'm teaching my 2 year old son the fundamentals of [quantum physics][2] :rocket:.
 
-My wife(Grace) and I are animal lovers. Here is a table of our furry family members.
+My family loves animals. Here is a table of our furry family members.
 <table>
   <tr>
     <th>Name</th>
