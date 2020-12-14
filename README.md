@@ -5,7 +5,7 @@
 <h2 align="center">:wave: Hello, I'm DJ! :wave:</h2>
 <p align="left">I'm a senior engineer with Developer Experience in Phoenix, Arizona and have been a colleage since October, 2019.
 
-I am passionate about all things technology. I've been an Embedded Systems Engineer with Intel's Computer Vision Division and worked on redundant satellite modems for Comtech EF Data. Before joining DX I was part of our [Central][3] team in Enterprise Architecture. 
+I am passionate about all things technology. I've been an Embedded Systems Engineer with Intel's Computer Vision Division and worked on redundancy in mid-Earth-orbit satellite modems for Comtech EF Data. Before joining DX I was part of our [Central][3] team in Enterprise Architecture. 
 
 When I'm not tinkering with my litany of second hand servers, arduinos, or circuit designs, I'm teaching my 2 year old son the fundamentals of [quantum physics][2] :rocket:.
 
