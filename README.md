@@ -1,12 +1,29 @@
+<style>
+div {
+    display: flex;
+    justify-content: space-between;  
+}
+</style>
+
 <details closed>
   <summary> About Me </summary>
-  <h5>Name: DJ Carpenter </h5>
-  <h5>Title: Senior Engineer 1</h5>
-  <h5>Department: CTO - Developer Experience - Developer Platforms</h5>
-  <h5>Email: daniel.j.carpenter1@aexp.com</h5>
-  <a href="https://aexp-architecture.slack.com/archives/DPA2KHV45">Slack: @dj</a>
+  <h5>Name:        DJ Carpenter </h5>
+  <h5>Title:       Senior Engineer 1</h5>
+  <h5>Department:  CTO - Developer Experience - Developer Platforms</h5>
+  <h5>Email:       daniel.j.carpenter1@aexp.com</h5>
+  <a href="https://aexp-architecture.slack.com/archives/DPA2KHV45">Slack:       @dj</a>
   <h5>City: Phoenix</h5>
 </details>
+
+<details open>
+<summary>Write Markdown!</summary>
+<!--All you need is a blank line-->
+
+**Python** *Code*
+```python
+from __future__ import print_function
+print('Hello world!')
+```
 
 ---
 
