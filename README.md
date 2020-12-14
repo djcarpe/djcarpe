@@ -8,17 +8,6 @@
   <h5>City: Phoenix</h5>
 </details>
 
-<details open>
-<summary>Write Markdown!</summary>
-<!--All you need is a blank line-->
-
-**Python** *Code*
-```python
-from __future__ import print_function
-print('Hello world!')
-```
-</details>
-
 ---
 
 ## :hammer: Working On 
