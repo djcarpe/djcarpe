@@ -43,13 +43,18 @@ My wife(Grace) and I are animal lovers. Here is a table of our furry family memb
 </p>
 
 ## :hammer: Working On 
-1. Accelerating developer productivity and increasing developer happiness!
-1. Enabling [@amex-eng/rust-lang][0] as a first class citizen to build and deploy fast/safe applications!
+- [ ] Accelerating developer productivity and increasing developer happiness!
+- [ ] Enabling [@amex-eng/rust-lang][0] as a first class citizen to build and deploy fast/safe applications!
 
-## :book: Currently Reading 
+## :bookmark: Currently Reading 
 1. [We Are Legion (We Are Bob)][1] - Dennis E. Taylor
 
 
+## :book: Recommended Reads
+1. No Rules Rules - Reed Hastings & Erin Meyer
+1. The Beginning of Infinity - David Deutsch
+1. The Emperor's New Mind; Concerning Computers, Minds and the Laws of Physics - Roger Penrose
+1. The Tipping Point - Malcolm Gladwell
 
 [0]: https://github.aexp.com/orgs/amex-eng/teams/rust-lang
 [1]: https://www.amazon.com/Are-Legion-Bob-Bobiverse-Book-ebook/dp/B01LWAESYQ
