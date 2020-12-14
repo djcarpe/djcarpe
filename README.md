@@ -1,6 +1,5 @@
 ## [![DJ Carpenter](https://github.aexp.com/djcarpe/djcarpe/blob/master/images/header.png)](https://square.americanexpress.com/people/djcarpe)
 
-
 ---
 
 ## :hammer: Working On 
