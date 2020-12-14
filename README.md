@@ -1,10 +1,3 @@
-<style>
-div {
-    display: flex;
-    justify-content: space-between;  
-}
-</style>
-
 <details closed>
   <summary> About Me </summary>
   <h5>Name:        DJ Carpenter </h5>
