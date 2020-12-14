@@ -1,12 +1,5 @@
-<details closed>
-  <summary> About Me </summary>
-  <h5>Name:        DJ Carpenter </h5>
-  <h5>Title:       Senior Engineer 1</h5>
-  <h5>Department:  CTO - Developer Experience - Developer Platforms</h5>
-  <h5>Email:       daniel.j.carpenter1@aexp.com</h5>
-  <a href="https://aexp-architecture.slack.com/archives/DPA2KHV45">Slack:       @dj</a>
-  <h5>City: Phoenix</h5>
-</details>
+## [![DJ Carpenter](https://github.aexp.com/djcarpe/djcarpe/blob/master/images/header.png)](https://square.americanexpress.com/people/djcarpe)
+
 
 ---
 
