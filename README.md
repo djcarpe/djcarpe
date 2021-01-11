@@ -3,9 +3,9 @@
 ---
 
 <h2 align="center">:wave: Hello, I'm DJ! :wave:</h2>
-<p align="left">I'm a senior engineer with Developer Experience in Phoenix, Arizona and have been a colleage since October, 2019.
+<p align="left">I'm an engineer in Phoenix, Arizona.
 
-I am passionate about all things technology. I've been an Embedded Systems Engineer with Intel's Computer Vision Division and worked on redundancy in mid-Earth-orbit satellite modems for Comtech EF Data. Before joining DX I was part of our [Central][3] team in Enterprise Architecture. 
+I am passionate about all things technology. I've been an Embedded Systems Engineer and enjoy solving tough problems.
 
 When I'm not tinkering with my litany of second hand servers, arduinos, or circuit designs, I'm teaching my 2 year old son the fundamentals of [quantum physics][2] :rocket:.
 
@@ -43,8 +43,7 @@ My family loves animals. Here is a table of our furry family members.
 </p>
 
 ## :hammer: Working On 
-- [ ] Accelerating developer productivity and increasing developer happiness!
-- [ ] Enabling [@amex-eng/rust-lang][0] as a first class citizen to build and deploy fast/safe applications!
+- [ ] Rust
 
 ## :bookmark: Currently Reading 
 1. [We Are Legion (We Are Bob)][1] - Dennis E. Taylor
@@ -59,4 +58,3 @@ My family loves animals. Here is a table of our furry family members.
 [0]: https://github.aexp.com/orgs/amex-eng/teams/rust-lang
 [1]: https://www.amazon.com/Are-Legion-Bob-Bobiverse-Book-ebook/dp/B01LWAESYQ
 [2]: https://www.amazon.com/Quantum-Physics-Babies-Baby-University/dp/1492656224
-[3]: https://mycentral.aexp.com
