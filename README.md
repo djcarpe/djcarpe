@@ -1,15 +1,11 @@
-## ![DJ Carpenter](https://github.com/djcarpe/djcarpe/blob/master/images/header.png)
+<!-- ## ![DJ Carpenter](https://github.com/djcarpe/djcarpe/blob/master/images/header.png) -->
 
 ---
 
 <h2 align="center">:wave: Hello, I'm DJ! :wave:</h2>
 <p align="left">I'm an engineer in Phoenix, Arizona.
 
-I am passionate about all things technology. I've been an Embedded Systems Engineer and enjoy solving tough problems.
-
-When I'm not tinkering with my litany of second hand servers, arduinos, or circuit designs, I'm teaching my 2 year old son the fundamentals of [quantum physics][2] :rocket:.
-
-My family loves animals. Here is a table of our furry family members.
+My family loves animals.
 <table>
   <tr>
     <th>Name</th>
@@ -42,18 +38,16 @@ My family loves animals. Here is a table of our furry family members.
 </table>
 </p>
 
-## :hammer: Working On 
-- [ ] Rust
-
 ## :bookmark: Currently Reading 
-1. [We Are Legion (We Are Bob)][1] - Dennis E. Taylor
-
+- Elixir in Action
+- Phoenix in Action
 
 ## :book: Recommended Reads
 1. No Rules Rules - Reed Hastings & Erin Meyer
-1. The Beginning of Infinity - David Deutsch
-1. The Emperor's New Mind; Concerning Computers, Minds and the Laws of Physics - Roger Penrose
-1. The Tipping Point - Malcolm Gladwell
+2. Designing Data Intensive Applications - Martin Kleppmann
+3. The Beginning of Infinity - David Deutsch
+4. The Emperor's New Mind; Concerning Computers, Minds and the Laws of Physics - Roger Penrose
+5. The Tipping Point - Malcolm Gladwell
 
 [0]: https://github.aexp.com/orgs/amex-eng/teams/rust-lang
 [1]: https://www.amazon.com/Are-Legion-Bob-Bobiverse-Book-ebook/dp/B01LWAESYQ
